@@ -1,0 +1,20 @@
+
+;
+java:S1659
+"%Declare "numero2" on a separate line.(Úâæ¿
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¾îŒ‡
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ãŠşñøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¡›˜×ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒüÕàøÿÿÿÿ
+s
+java:S4276"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(°™ü
+x
+java:S4276"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(ÖÇ—‰úÿÿÿÿ
+x
+java:S4276"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(œ‚´¶üÿÿÿÿ
+n
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(œ‚´¶üÿÿÿÿ
+x
+java:S4276""]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(—Ò‘ûÿÿÿÿ
+n
+java:S1602""SRemove useless curly braces around statement and then remove useless return keyword(—Ò‘ûÿÿÿÿ
